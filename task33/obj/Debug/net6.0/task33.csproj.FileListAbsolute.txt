@@ -1,0 +1,15 @@
+D:\Учеба программирование\GB\c#\семинар 5\task33\bin\Debug\net6.0\task33.exe
+D:\Учеба программирование\GB\c#\семинар 5\task33\bin\Debug\net6.0\task33.deps.json
+D:\Учеба программирование\GB\c#\семинар 5\task33\bin\Debug\net6.0\task33.runtimeconfig.json
+D:\Учеба программирование\GB\c#\семинар 5\task33\bin\Debug\net6.0\task33.dll
+D:\Учеба программирование\GB\c#\семинар 5\task33\bin\Debug\net6.0\task33.pdb
+D:\Учеба программирование\GB\c#\семинар 5\task33\obj\Debug\net6.0\task33.csproj.AssemblyReference.cache
+D:\Учеба программирование\GB\c#\семинар 5\task33\obj\Debug\net6.0\task33.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба программирование\GB\c#\семинар 5\task33\obj\Debug\net6.0\task33.AssemblyInfoInputs.cache
+D:\Учеба программирование\GB\c#\семинар 5\task33\obj\Debug\net6.0\task33.AssemblyInfo.cs
+D:\Учеба программирование\GB\c#\семинар 5\task33\obj\Debug\net6.0\task33.csproj.CoreCompileInputs.cache
+D:\Учеба программирование\GB\c#\семинар 5\task33\obj\Debug\net6.0\task33.dll
+D:\Учеба программирование\GB\c#\семинар 5\task33\obj\Debug\net6.0\refint\task33.dll
+D:\Учеба программирование\GB\c#\семинар 5\task33\obj\Debug\net6.0\task33.pdb
+D:\Учеба программирование\GB\c#\семинар 5\task33\obj\Debug\net6.0\task33.genruntimeconfig.cache
+D:\Учеба программирование\GB\c#\семинар 5\task33\obj\Debug\net6.0\ref\task33.dll
